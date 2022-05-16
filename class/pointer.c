@@ -8,7 +8,7 @@ void reset_snd_elt(int array[]){
 
 int main(){
 
-  int array[5]={10,22,33,4,5};
+  int array[5]={1,22,33,4,5};
   int *p_int;
 
   p_int = array;
